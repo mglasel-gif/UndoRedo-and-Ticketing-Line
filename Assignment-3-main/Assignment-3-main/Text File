@@ -1,0 +1,8 @@
+Why is a stack the right choice for undo/redo?
+It is the right choice because it uses the LIFO order, because it lets you undo or redo the most recent action.
+
+Why is a queue better suited for the help desk?
+A stack on the other hand uses the FIFO order, so customers get the service in the order they arrive. It also shows you the queue to see who is next.
+
+How do your implementations differ from Python’s built-in lists?
+Stack and Queue use linked nodes. It makes things faster than a Python list.
